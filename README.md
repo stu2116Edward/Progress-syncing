@@ -4,7 +4,7 @@ Time: 2025-5-19
 
 高数杰哥专升本
 ```
-https://www.bilibili.com/video/BV1Up4y1Y76a/?spm_id_from=333.788.videopod.episodes&vd_source=b930bd0e61d56377e8912e6286068af5&p=146
+https://www.bilibili.com/video/BV1Up4y1Y76a?spm_id_from=333.788.videopod.episodes&vd_source=b930bd0e61d56377e8912e6286068af5&p=154
 ```
 宏图专升本英语 - 基础精品2025  
 **03动词**
