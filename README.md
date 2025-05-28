@@ -12,7 +12,7 @@ https://www.bilibili.com/video/BV1Up4y1Y76a?spm_id_from=333.788.videopod.episode
 **06时态**
 
 宏图专升本数学 - 基础精品2024  
-**01函数的定义**
+**05极限的计算**
 
 <pre>
                    __                  ____                                                     
