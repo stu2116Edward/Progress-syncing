@@ -1,6 +1,6 @@
 # Progress-syncing
 
-Update: 2025-5-29  
+Update: 2025-5-30  
 
 高数杰哥专升本
 ```
@@ -12,7 +12,7 @@ https://www.bilibili.com/video/BV1Up4y1Y76a?spm_id_from=333.788.videopod.episode
 **06时态**
 
 宏图专升本数学 - 基础精品2024  
-**07零值定理、导数**
+**09高阶导数**
 
 <pre>
                    __                  ____                                                     
