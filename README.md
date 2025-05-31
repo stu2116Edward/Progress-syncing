@@ -12,7 +12,7 @@ https://www.bilibili.com/video/BV1Up4y1Y76a?spm_id_from=333.788.videopod.episode
 **06时态**
 
 宏图专升本数学 - 基础精品2024  
-**09高阶导数**
+**011导数的应用**
 
 <pre>
                    __                  ____                                                     
