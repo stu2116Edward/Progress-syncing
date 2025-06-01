@@ -1,6 +1,6 @@
 # Progress-syncing
 
-Update: 2025-5-31  
+Update: 2025-6-1  
 
 高数杰哥专升本
 ```
@@ -12,7 +12,7 @@ https://www.bilibili.com/video/BV1Up4y1Y76a?spm_id_from=333.788.videopod.episode
 **06时态**
 
 宏图专升本数学 - 基础精品2024  
-**011导数的应用**
+**013不定积分**
 
 <pre>
                    __                  ____                                                     
