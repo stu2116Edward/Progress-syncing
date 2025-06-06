@@ -1,6 +1,6 @@
 # Progress-syncing
 
-Update: 2025-6-5  
+Update: 2025-6-6  
 
 高数杰哥专升本
 ```
@@ -9,7 +9,7 @@ https://www.bilibili.com/video/BV1Up4y1Y76a?spm_id_from=333.788.videopod.episode
 证明题（零点定理，积分中值定理，罗尔定理，拉格朗日，介值定理，柯西中值，泰勒）  
 
 宏图专升本英语 - 基础精品2025  
-**06时态**
+**07时态**
 
 宏图专升本数学 - 基础精品2024  
 **019反常积分**
