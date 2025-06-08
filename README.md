@@ -1,6 +1,6 @@
 # Progress-syncing
 
-Update: 2025-6-7  
+Update: 2025-6-8  
 
 高数杰哥专升本
 ```
