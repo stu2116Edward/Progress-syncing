@@ -1,13 +1,17 @@
 # Progress-syncing
 
-Update: 2025-6-20  
-**312** days  
+Update: 2025-6-21  
+**311** days  
 
 高数杰哥专升本
 ```
 https://www.bilibili.com/video/BV1Up4y1Y76a?spm_id_from=333.788.videopod.episodes&vd_source=b930bd0e61d56377e8912e6286068af5&p=113
 ```
-证明题（零点定理，积分中值定理，罗尔定理，拉格朗日，介值定理，柯西中值，泰勒）  
+证明题（零点定理，积分中值定理，罗尔定理，拉格朗日，介值定理，柯西中值，泰勒）    
+泰勒公式
+```
+https://www.bilibili.com/video/BV12G411U7tD/?spm_id_from=333.337.search-card.all.click&vd_source=b930bd0e61d56377e8912e6286068af5
+```
 
 宏图专升本英语 - 基础精品2024  
 **20状语从句**
