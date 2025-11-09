@@ -1,7 +1,7 @@
 # Progress-syncing
 
-Update: 2025-11-2   
-**167** days  
+Update: 2025-11-9   
+**160** days  
 
 高数杰哥专升本
 ```
